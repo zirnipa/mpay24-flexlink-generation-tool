@@ -7,3 +7,6 @@ Upload all files to your webserver.
 Edit the config.php located under /config/config.php
 
 In order to receive the necessary SPID and FLEX_LINK_PASS contact us: operations@mpay24.com
+
+## Used external sources
+clipboard.js - https://clipboardjs.com/
